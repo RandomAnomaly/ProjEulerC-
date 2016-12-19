@@ -1,0 +1,6 @@
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\bin\Debug\Largest Prime Factor.exe.config
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\obj\Debug\Largest Prime Factor.csprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\bin\Debug\Largest Prime Factor.exe
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\bin\Debug\Largest Prime Factor.pdb
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\obj\Debug\Largest Prime Factor.exe
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Largest Prime Factor\obj\Debug\Largest Prime Factor.pdb
