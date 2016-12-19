@@ -1,0 +1,6 @@
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\bin\Debug\Project Euler.exe.config
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\bin\Debug\Project Euler.exe
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\bin\Debug\Project Euler.pdb
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\obj\Debug\Multiples 3 5.csprojResolveAssemblyReference.cache
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\obj\Debug\Project Euler.exe
+C:\Users\jack\Desktop\ProjEulerC-\Project Euler\Project Euler\obj\Debug\Project Euler.pdb
